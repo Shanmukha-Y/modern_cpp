@@ -23,7 +23,13 @@
 
 ### Design Philosophy of C++
 
+C++ is built on three core principles:
+
 1. **Safety**
+   - Type safety: Strong typing system to catch errors at compile-time
+   - Memory safety: Tools and practices to prevent memory leaks and undefined behavior
+   - Exception handling: Mechanisms to handle and recover from runtime errors
+   - RAII (Resource Acquisition Is Initialization): Ensures proper resource management
 
 2. **Efficiency**
    - Zero-overhead principle: You don't pay for what you don't use
@@ -44,3 +50,31 @@ These principles work together to create a language that provides powerful tools
 - C++ is ideal for applications requiring high performance and memory efficiency
 - It bridges the gap between low-level programming (like assembly) and high-level abstractions
 - The language continues to evolve, with "Modern C++" introducing new features and best practices
+
+### Standard Input/Output Channels
+
+In Linux, when a program runs:
+- The kernel assigns three standard channels:
+  1. STDIN (Standard Input)
+  2. STDOUT (Standard Output)
+  3. STDERR (Standard Error)
+- By default:
+  - STDIN receives input from the keyboard
+  - STDOUT and STDERR display output on the monitor
+
+### C++ Program Structure
+
+1. **Main Function**
+   - Every C++ program starts with the `main` function
+   - The `main` function returns an error code
+     - Error code 0 typically means the program executed successfully
+
+2. **Include Statements**
+   - Similar to `import` in Python
+   - Used to include necessary libraries or header files
+
+3. **Compilation Process**
+   - C++ code needs to be compiled before it can be run
+   - Common C++ compilers include:
+     - GCC (GNU Compiler Collection)
+     - Clang
