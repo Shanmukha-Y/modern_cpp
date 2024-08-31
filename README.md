@@ -7,7 +7,7 @@ Planning on completing the following and eventually pivot into CUDA programming
 ### Lectures
 
 - [X] ~~Lecture 0: The Basics~~
-- [ ] Lecture 1: Build and Tools
+- [X] ~~Lecture 1: Build and Tools~~
 - [ ] Lecture 2: Core C++
 - [ ] Lecture 3: C++ Functions
 - [ ] Lecture 4: The C++ STL Library
@@ -17,19 +17,14 @@ Planning on completing the following and eventually pivot into CUDA programming
 - [ ] Lecture 8: Memory Management
 - [ ] Lecture 9: Templates
 
-### Tutorials
-
-- [X] ~~Tutorial 0 for Linux users: Setting up C++ dev box in GNU/Linux~~
-- [ ] Tutorial 1: Homework
-- [ ] Tutorial 2: clang-tools
-- [ ] Tutorial 3: OpenCV 4 C++ in GNU/Linux
 
 ### Learnings
 
 - [X] ~~Bash Introduction~~
 - [X] ~~Command Line Pipes and redirection~~
 - [X] ~~Git~~
-- [ ] GDB
+- [X] ~~Using Libraries, Header Files~~
+- [X] ~~Build, CMake, Make~~
 - [ ] C++ Classes
 - [ ] C++ Unit Testing
 - [ ] Object Oriented Pillars
