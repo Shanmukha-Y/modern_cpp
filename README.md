@@ -1,5 +1,5 @@
-# Modern C++ Course (2020)
-## by Ignacio Vizzo and Cyrill Stachniss
+# Modern C++ Course 
+## (2020 version cause i loved it then) by Ignacio Vizzo and Cyrill Stachniss
 
 Working on this course to revisit C++
 Planning on completing the following and eventually pivot into CUDA programming
