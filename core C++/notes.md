@@ -103,3 +103,152 @@ myType var;           // Variable
 myType::static_var;   // Static data member (variable)
 myObject.data_member; // Non-static data member (not a variable)
 ```
+
+# C++ Control Structures
+
+Control structures in C++ allow you to control the flow of your program's execution. Here are the main types of control structures:
+
+## 1. Conditional Statements
+
+### if Statement
+
+The `if` statement allows you to execute a block of code only if a condition is true.
+
+```cpp
+if (condition) {
+    // Code to execute if condition is true
+}
+```
+
+### if-else Statement
+
+The `if-else` statement allows you to execute one block of code if a condition is true, and another if it's false.
+
+```cpp
+if (condition) {
+    // Code to execute if condition is true
+} else {
+    // Code to execute if condition is false
+}
+```
+
+### else-if Statement
+
+The `else-if` statement allows you to check multiple conditions.
+
+```cpp
+if (condition1) {
+    // Code to execute if condition1 is true
+} else if (condition2) {
+    // Code to execute if condition2 is true
+} else {
+    // Code to execute if all conditions are false
+}
+```
+
+### switch Statement
+
+The `switch` statement allows you to select one of many code blocks to be executed.
+
+```cpp
+switch(expression) {
+    case constant1:
+        // Code to be executed if expression == constant1
+        break;
+    case constant2:
+        // Code to be executed if expression == constant2
+        break;
+    default:
+        // Code to be executed if expression doesn't match any constants
+}
+```
+
+## 2. Loops
+
+### for Loop
+
+The `for` loop executes a block of code a specified number of times.
+
+```cpp
+for (initialization; condition; update) {
+    // Code to be repeated
+}
+```
+
+Example:
+```cpp
+for (int i = 0; i < 5; i++) {
+    cout << i << endl;
+}
+```
+
+### while Loop
+
+The `while` loop executes a block of code as long as a specified condition is true.
+
+```cpp
+while (condition) {
+    // Code to be repeated
+}
+```
+
+### do-while Loop
+
+The `do-while` loop is similar to the while loop, except that it executes the code block at least once before checking the condition.
+
+```cpp
+do {
+    // Code to be repeated
+} while (condition);
+```
+
+## 3. Jump Statements
+
+### break Statement
+
+The `break` statement terminates the loop or switch statement and transfers execution to the statement immediately following the loop or switch.
+
+```cpp
+for (int i = 0; i < 10; i++) {
+    if (i == 5) {
+        break;  // Exit the loop when i is 5
+    }
+    cout << i << endl;
+}
+```
+
+### continue Statement
+
+The `continue` statement skips the rest of the current iteration of a loop and continues with the next iteration.
+
+```cpp
+for (int i = 0; i < 10; i++) {
+    if (i % 2 == 0) {
+        continue;  // Skip even numbers
+    }
+    cout << i << endl;
+}
+```
+
+### return Statement
+
+The `return` statement terminates the execution of a function and returns control to the calling function. It can also return a value from a function.
+
+```cpp
+int sum(int a, int b) {
+    return a + b;  // Return the sum and exit the function
+}
+```
+
+### goto Statement
+
+The `goto` statement transfers control to a labeled statement. However, it's generally discouraged in modern C++ programming due to its potential to create confusing code.
+
+```cpp
+goto label;
+// Some code here
+label:
+    // Code to execute after goto
+```
+
+**Note:** While `goto` is available in C++, it's considered bad practice in most cases and should be avoided in favor of other control structures.
