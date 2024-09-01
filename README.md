@@ -8,7 +8,7 @@ Planning on completing the following and eventually pivot into CUDA programming
 
 - [X] ~~Lecture 0: The Basics~~
 - [X] ~~Lecture 1: Build and Tools~~
-- [ ] Lecture 2: Core C++
+- [X] ~~Lecture 2: Core C++~~
 - [ ] Lecture 3: C++ Functions
 - [ ] Lecture 4: The C++ STL Library
 - [ ] Lecture 5: I/O Files, Intro to Classes
@@ -25,6 +25,7 @@ Planning on completing the following and eventually pivot into CUDA programming
 - [X] ~~Git~~
 - [X] ~~Using Libraries, Header Files~~
 - [X] ~~Build, CMake, Make~~
+- [X] ~~C++ Syntax Basics~~
 - [ ] C++ Classes
 - [ ] C++ Unit Testing
 - [ ] Object Oriented Pillars
