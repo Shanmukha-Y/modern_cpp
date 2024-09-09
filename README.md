@@ -9,8 +9,8 @@ Planning on completing the following and eventually pivot into CUDA programming
 - [X] ~~Lecture 0: The Basics~~
 - [X] ~~Lecture 1: Build and Tools~~
 - [X] ~~Lecture 2: Core C++~~
-- [ ] Lecture 3: C++ Functions
-- [ ] Lecture 4: The C++ STL Library
+- [X] ~~Lecture 3: C++ Functions~~
+- [X] ~~Lecture 4: The C++ STL Library~~
 - [ ] Lecture 5: I/O Files, Intro to Classes
 - [ ] Lecture 6: Modern C++ Classes
 - [ ] Lecture 7: Object Oriented Design
