@@ -11,7 +11,7 @@ Planning on completing the following and eventually pivot into CUDA programming
 - [X] ~~Lecture 2: Core C++~~
 - [X] ~~Lecture 3: C++ Functions~~
 - [X] ~~Lecture 4: The C++ STL Library~~
-- [ ] Lecture 5: I/O Files, Intro to Classes
+- [X] ~~Lecture 5: I/O Files, Intro to Classes~~
 - [ ] Lecture 6: Modern C++ Classes
 - [ ] Lecture 7: Object Oriented Design
 - [ ] Lecture 8: Memory Management
@@ -34,12 +34,12 @@ Planning on completing the following and eventually pivot into CUDA programming
 - [ ] Smart Pointers
 - [ ] Smart Pointers Deeper
 - [ ] Template Normal Programming
-- [ ] Bag of Visual Words Introduction
+- [X] ~~Bag of Visual Words Introduction~~
 
 ### Special Lectures
 
-- [ ] Bag of Visual Words – 5 Minutes with Cyrill
-- [ ] Bag of Visual Words & Project Instruction (1-hour lecture)
+- [X] ~~Bag of Visual Words – 5 Minutes with Cyrill~~
+- [X] ~~Bag of Visual Words & Project Instruction (1-hour lecture)~~
 
 ## Progress
 
