@@ -44,10 +44,13 @@ int main()
     c1.calcArea();
     r1.calcArea();
 
-    Shape* s1;
+    Shape *s1;
     s1 = &c1;
 
+    Shape *s2 = &r1;
+
     s1->calcArea();
+    s2->calcArea();
 
     return 0;
 }
