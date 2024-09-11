@@ -12,8 +12,8 @@ Planning on completing the following and eventually pivot into CUDA programming
 - [X] ~~Lecture 3: C++ Functions~~
 - [X] ~~Lecture 4: The C++ STL Library~~
 - [X] ~~Lecture 5: I/O Files, Intro to Classes~~
-- [ ] Lecture 6: Modern C++ Classes
-- [ ] Lecture 7: Object Oriented Design
+- [X] ~~Lecture 6: Modern C++ Classes~~
+- [X] ~~Lecture 7: Object Oriented Design~~
 - [ ] Lecture 8: Memory Management
 - [ ] Lecture 9: Templates
 
@@ -26,10 +26,10 @@ Planning on completing the following and eventually pivot into CUDA programming
 - [X] ~~Using Libraries, Header Files~~
 - [X] ~~Build, CMake, Make~~
 - [X] ~~C++ Syntax Basics~~
-- [ ] C++ Classes
+- [X] ~~C++ Classes~~
 - [ ] C++ Unit Testing
 - [ ] Object Oriented Pillars
-- [ ] Polymorphism
+- [X] ~~Polymorphism~~
 - [ ] Raw Pointers
 - [ ] Smart Pointers
 - [ ] Smart Pointers Deeper
