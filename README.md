@@ -14,8 +14,8 @@ Planning on completing the following and eventually pivot into CUDA programming
 - [X] ~~Lecture 5: I/O Files, Intro to Classes~~
 - [X] ~~Lecture 6: Modern C++ Classes~~
 - [X] ~~Lecture 7: Object Oriented Design~~
-- [ ] Lecture 8: Memory Management
-- [ ] Lecture 9: Templates
+- [X] ~~Lecture 8: Memory Management~~
+- [X] ~~Lecture 9: Templates~~
 
 
 ### Learnings
@@ -28,12 +28,12 @@ Planning on completing the following and eventually pivot into CUDA programming
 - [X] ~~C++ Syntax Basics~~
 - [X] ~~C++ Classes~~
 - [ ] C++ Unit Testing
-- [ ] Object Oriented Pillars
+- [X] Object Oriented Pillars
 - [X] ~~Polymorphism~~
-- [ ] Raw Pointers
-- [ ] Smart Pointers
-- [ ] Smart Pointers Deeper
-- [ ] Template Normal Programming
+- [X] ~~Raw Pointers~~
+- [X] ~~Smart Pointers~~
+- [X] ~~Smart Pointers Deeper~~
+- [X] ~~Template Normal Programming~~
 - [X] ~~Bag of Visual Words Introduction~~
 
 ### Special Lectures
